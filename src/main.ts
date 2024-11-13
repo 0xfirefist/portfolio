@@ -1,6 +1,6 @@
 import * as THREE from "three";
 import { OrbitControls } from "three/addons/controls/OrbitControls.js";
-import { TextGeometry } from "three/addons/geometries/textGeometry.js";
+import { TextGeometry } from "three/examples/jsm/geometries/textGeometry.js";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader.js";
 import typefaceFont from "three/examples/fonts/optimer_regular.typeface.json";
 import { RGBELoader } from "three/examples/jsm/loaders/RGBELoader.js";
